@@ -13,7 +13,8 @@ Mục đích duy nhất là tôi ghét zalo vãi cả l.
 
 # **📖 Giới thiệu**
 
-Zalo là ứng dụng nhắn tin phổ biến nhất tại Việt Nam. Tuy nhiên, khác như nhiều ứng dụng "miễn phí" khác, nó rất tệ cực kì tệ, những tính năng cơ bản còn không xong, mà trả phí cũng không ổn tí nào, mỗi lần đổi máy lại thì lại phải sao lưu lại (tôi biết signal với whatapp cũng cần phải sao lưu thủ công) nhưng mà em ơi em ơi ZALO gửi 8500/6020 (5000vnd/sms) không thì 1900633200, mới đây thêm quả [chính sách](https://vnexpress.net/zalo-nhan-tin-zalo-cap-nhat-dieu-khoan-moi-4999790.html) cũng như cứt nốt
+Zalo là ứng dụng nhắn tin phổ biến nhất tại Việt Nam. Tuy nhiên, khác như nhiều ứng dụng "miễn phí" khác, nó rất tệ cực kì tệ, những tính năng cơ bản còn không xong, mà trả phí cũng không ổn tí nào zcloud thì chập chờn, mỗi lần đổi máy lại thì lại phải sao lưu lại (tôi biết signal với whatapp cũng cần phải sao lưu thủ công) nhưng mà em ơi em ơi ZALO gửi 8500/6020 (5000vnd/sms) không thì 1900633200. Dùng bản web thì không cho đồng bộ tin nhắn, tải app thì tốn hết cả chip nhớ xong làm trên quả electron thì tốn hết cả tài nguyên. Zbusiness thì toàn tín năng mà whatapp ăn sạch mới đây thêm quả [chính sách](https://vnexpress.net/zalo-nhan-tin-zalo-cap-nhat-dieu-khoan-moi-4999790.html) cũng như cứt nốt
+Sau tất cả Zalo chỉ ăn được cái Mini App 
 
 Bộ lọc này được tạo ra nhằm mục đích:
  1. Chặn sạch, chặn cứng zalo, chặn không thiếu cái gì cả
@@ -33,7 +34,7 @@ Chọn Add Blocklist -> Add a custom list.
 
 Dán URL của danh sách bạn chọn ở trên vào.
 
-Đặt tên (ví dụ: Zalo Blocker) và nhấn Save.
+Đặt tên (ví dụ: zalo-fucker) và nhấn Save.
 
 ## 2. Pi-hole
 
@@ -76,7 +77,8 @@ Copy nội dung và dán vào cuối file hosts.
 Lưu lại (cần quyền Admin/Sudo).
 
 # 🤝 Đóng góp (Contributing)
+## Hiện tại tôi rất cần các bạn tìm ra những phốt của zalo để tôi up lên README vậy nên nếu bạn nào có vui lòng tạo issue giúp tôi!?!?!?
 
-Dự án này cần sự chung tay của cộng đồng để liên tục cập nhật các tên miền mới của Zalo. Nếu bạn phát hiện quảng cáo vẫn hiện hoặc tính năng nhắn tin bị lỗi:
+Dự án này cần sự chung tay của cộng đồng để liên tục cập nhật các tên miền mới của Zalo
 
 Tạo một Issue/Pull mới thông báo vấn đề về việc chặn thiếu/bổ sung.
