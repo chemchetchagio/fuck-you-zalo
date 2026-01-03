@@ -22,8 +22,6 @@
 ||123c.vn^
 ||scorecardresearch.com^
 ||zalo.cloud^
-||zalopay.com.vn^
-||zalopay.vn^
 ||zedcdn.me^
 ||zmdcdn.me^
 ||zalo.com.vn^
