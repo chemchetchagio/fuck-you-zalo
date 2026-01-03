@@ -83,9 +83,6 @@ ff02::3 ip6-allhosts
 0.0.0.1 sentry-int.zalo.cloud
 0.0.0.1 sentry-mini.zalo.me
 0.0.0.1 setting.api.zaloapp.com
-0.0.0.1 sfont.zalopay.com.vn
-0.0.0.1 simg.zalopay.com.vn
-0.0.0.1 social.zalopay.vn
 0.0.0.1 stc-fin.zdn.vn
 0.0.0.1 stc-kilm.zdn.vn
 0.0.0.1 stc-ministore.zdn.vn
@@ -93,7 +90,6 @@ ff02::3 ip6-allhosts
 0.0.0.1 stc-zmp.zadn.vn
 0.0.0.1 stc-zoacmt-widget.zdn.vn
 0.0.0.1 tracking.fiza.ai
-0.0.0.1 tracking.zalopay.vn
 0.0.0.1 universal-zinstant.api.zaloapp.com
 0.0.0.1 wss-core.zalo.video
 0.0.0.1 za.zdn.vn
