@@ -1,5 +1,5 @@
-# Title: fuck-you-zalo
-# Homepage: https://github.com/chemchetchagio/fuck-you-zalo
+# Title: fuck-you-zalo (host)
+# Homepage: https://github.com/zalofucker/fuck-you-zalo
 # ..............
 
 
