@@ -71,9 +71,6 @@ local-zone: "sec-zinstant.api.zaloapp.com" always_null
 local-zone: "sentry-int.zalo.cloud" always_null
 local-zone: "sentry-mini.zalo.me" always_null
 local-zone: "setting.api.zaloapp.com" always_null
-local-zone: "sfont.zalopay.com.vn" always_null
-local-zone: "simg.zalopay.com.vn" always_null
-local-zone: "social.zalopay.vn" always_null
 local-zone: "stc-fin.zdn.vn" always_null
 local-zone: "stc-kilm.zdn.vn" always_null
 local-zone: "stc-ministore.zdn.vn" always_null
@@ -81,7 +78,6 @@ local-zone: "stc-zalosdk.zdn.vn" always_null
 local-zone: "stc-zmp.zadn.vn" always_null
 local-zone: "stc-zoacmt-widget.zdn.vn" always_null
 local-zone: "tracking.fiza.ai" always_null
-local-zone: "tracking.zalopay.vn" always_null
 local-zone: "universal-zinstant.api.zaloapp.com" always_null
 local-zone: "wss-core.zalo.video" always_null
 local-zone: "za.zdn.vn" always_null
