@@ -50,8 +50,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cmt-article.oa.zalo.me
 0.0.0.0 cover-talk.zadn.vn
 0.0.0.0 discovery.api.zaloapp.com
-0.0.0.0 dashboard.yunagrp.com
-0.0.0.0 yunagrp.com
 0.0.0.0 fe-gr-chat.zalo.me
 0.0.0.0 featureflag.fiza.app
 0.0.0.0 graph.zalo.me
