@@ -1,5 +1,6 @@
 # fuck-you-zalo
 # **🛡️ Zalo  Blocker**
+#**HIỆN TẠI CHUNG TÔI CẦN HỖ TRỢ XÂY DỰNG README TRONG VIỆC CÁCH SETUP BLOCKLIST!?!?!?!**
 
 Lấy lại quyền riêng tư và ủng hộ sử dụng các ứng dụng OTT khác tốt hơn nghìn lần zalo.
 Dự án này cung cấp danh sách các tên miền (domains) và địa chỉ IP được sử dụng bởi Zalo (VNG) cho mục đích quảng cáo, theo dõi người dùng (tracking), và thu thập dữ liệu nền (telemetry), nhắn tin, máy chủ
