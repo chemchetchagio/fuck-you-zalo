@@ -129,6 +129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 setting.api.zaloapp.com
 0.0.0.0 zaloapp.com
 0.0.0.0 zedcdn.me
+0.0.0.0 za.zalo.me
 0.0.0.0 zalo-oa-article-photo.zedcdn.me
 0.0.0.0 stc-fin.zdn.vn
 0.0.0.0 stc-kilm.zdn.vn

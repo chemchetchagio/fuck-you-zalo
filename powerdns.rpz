@@ -225,6 +225,8 @@ zalo.me. CNAME .
 zalo.video. CNAME .
 *.zalo.video. CNAME .
 zalo.vn. CNAME .
+za.zalo.me CNAME .
+*.za.zalo.me CNAME .
 *.zalo.vn. CNAME .
 zaloapp.com. CNAME .
 *.zaloapp.com. CNAME .

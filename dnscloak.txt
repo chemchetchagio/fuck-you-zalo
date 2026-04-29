@@ -121,6 +121,7 @@
 *.zalo-oa-article-photo.zedcdn.me
 *.zalo.com.vn
 *.zalo.me
+*.za.zalo.me
 *.zalo.video
 *.zalo.vn
 *.zbox.vn

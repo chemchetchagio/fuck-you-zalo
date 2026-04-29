@@ -9,6 +9,7 @@ zalo.vn
 business.zbox.vn
 zbox.vn
 zapps.me
+za.zalo.me
 analytics.zapps.me
 api.tiktour.vn
 apilive.bscore.one

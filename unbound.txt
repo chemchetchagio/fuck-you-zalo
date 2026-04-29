@@ -112,6 +112,7 @@ local-zone: "zalo-effect.zadn.vn" always_null
 local-zone: "zalo-oa-article-photo.zedcdn.me" always_null
 local-zone: "zalo.com.vn" always_null
 local-zone: "zalo.me" always_null
+local-zone: "za.zalo.me" always_null
 local-zone: "zalo.video" always_null
 local-zone: "zalo.vn" always_null
 local-zone: "zaloapp.com" always_null

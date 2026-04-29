@@ -126,6 +126,7 @@ ff02::3 ip6-allhosts
 0.0.0.1 zalo-oa-article-photo.zedcdn.me
 0.0.0.1 zalo.com.vn
 0.0.0.1 zalo.me
+0.0.0.1 za.zalo.me
 0.0.0.1 zalo.video
 0.0.0.1 zalo.vn
 0.0.0.1 zaloapp.com
